@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Sai Mayank 👋
 
-<!--
-**BeastBeatsGaming/BeastBeatsGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves building games, experimenting with ideas, and turning random concepts into real projects.
 
-Here are some ideas to get you started:
+Most of the time you'll find me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎮 Making games and gameplay systems
+* ⚡ Building web apps and tools
+* 🎨 Experimenting with UI, visuals, and game feel
+* 🧠 Learning something new every week
+* ☕ Debugging things that somehow worked yesterday
+
+---
+
+## What I Work With
+
+### Game Development
+
+Unity • C# • Game Design • Gameplay Programming
+
+### Web Development
+
+React • JavaScript • Node.js • Express • HTML • CSS
+
+### Other Tools
+
+Git • GitHub • Blender • VS Code
+
+---
+
+## A Few Things About Me
+
+* I enjoy creating projects that feel fun and interactive
+* I like mixing creativity with programming
+* I care a lot about polish, smooth UX, and satisfying gameplay
+* I’m always trying to improve my skills by building new things
