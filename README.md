@@ -16,15 +16,15 @@ Most of the time you'll find me:
 
 ### Game Development
 
-Unity • C# • Game Design • Gameplay Programming
+Unity • C# • Gameplay Programming
 
 ### Web Development
 
-React • JavaScript • Node.js • Express • HTML • CSS
+React • Node.js • Express • MongoDB • HTML • CSS • JavaScript • TypeScript • NEXT.js
 
 ### Other Tools
 
-Git • GitHub • Blender • VS Code
+Git • GitHub
 
 ---
 
